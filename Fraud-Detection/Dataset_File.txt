@@ -1,0 +1,14 @@
+\f0\fs24 \cf0 Dataset Name:\
+Credit Card Fraud Detection Dataset\
+\
+Original Source:\
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud\
+\
+Dataset Size:\
+Approximately 150 MB\
+\
+Reason for Exclusion:\
+The dataset size is large and may exceed practical submission limits. The original dataset can be downloaded using the source link above.\
+\
+Used In:\
+Fraud Detection Using Machine Learning Projects}
